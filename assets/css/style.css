@@ -1,0 +1,23 @@
+
+.player{
+    border: 5px dotted blue;
+}
+
+.defender{
+    color: rgb(0, 61, 245);
+    background-color: rgb(161, 170, 199);
+    border: 5px solid royalblue;
+}
+
+.enemy{
+    color: red;
+    background-color: rgb(207, 152, 152);
+    border: 5px solid red;
+}
+
+.hero{
+    color: green;
+    background-color: rgb(151, 206, 151);
+    border: 5px solid green;
+}
+
